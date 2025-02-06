@@ -1,4 +1,4 @@
-# Permissions to access the specified AWS Secrets Manager secret
+# Permissions to access the specified AWS Secrets Manager secret {SSM}
 
 Permissions to access the specified AWS Secrets Manager secret. Here’s how you can fix it:
 
